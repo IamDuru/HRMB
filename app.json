@@ -1,0 +1,14 @@
+{
+  "name": "Advanced Security Telegram Bot",
+  "description": "A simple Python Telegram bot that replies with a specific security message.",
+  "keywords": [
+    "telegram",
+    "bot",
+    "python"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
